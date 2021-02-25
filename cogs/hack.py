@@ -16,7 +16,7 @@ class HACK(commands.Cog):
             await ctx.send("Please tell me who do you want to hack.")
 
         elif user == ctx.author:
-            await ctx.send("You shouldn't hack yourself.")
+            await ctx.send("I would readily hack you, but you wouldn't like it.")
 
         else:
             email_fun = ['69420', '8008135', 'eatsA$$', 'PeekABoo',
